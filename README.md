@@ -17,7 +17,7 @@ This Google Apps Script automates common data processing tasks in Google Sheets,
 
 ## 🛠️ Setup Instructions  
 1. Open **Google Sheets → Extensions → Apps Script**.  
-2. Delete any existing code and paste the contents of `code.gs`.  
+2. Delete any existing code and paste the contents of `processData.gs`.  
 3. Modify the sheet name and column settings as needed.  
 4. Run the script manually or set a trigger for automation.  
 
